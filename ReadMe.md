@@ -1,6 +1,6 @@
 # LayoutLMv3 Document Classification
 
-This repository contains the code for the document classification task using LayoutLMv3.
+This repository contains the code for the document classification task using [LayoutLMv3](https://huggingface.co/microsoft/layoutlmv3-base)
 
 # Dataset
 
